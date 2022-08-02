@@ -1,0 +1,57 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+#imger{
+  display: block;
+  margin: 0 auto;
+  height: 500px;
+  width: 800px;
+
+}
+
+/*give side my side by side format*/
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+div#imagee{
+ margin: 2px solid black;
+
+}
+
+h2{
+  position: relative;
+  text-align: center;
+}
+
+h3{
+  margin: auto;
+  top: 40px;
+  text-align: center;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+
+#buttony{
+  margin: auto;
+  text-align: center;
+}
+#nasa{
+  height: 100px;
+  width: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+body{
+  background-color: beige
+}
