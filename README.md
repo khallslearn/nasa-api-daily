@@ -1,5 +1,5 @@
 # nasa-image
-Choose date to recieve NASA information
+Choose date to receive NASA information
 
 
 API Application
