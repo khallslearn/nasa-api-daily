@@ -2,5 +2,5 @@
 Choose date to receive NASA information
 
 
-API Application
+Demo API Application 
 https://khallslearn.github.io/nasa-api-daily/
